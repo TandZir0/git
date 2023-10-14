@@ -1,0 +1,25 @@
+
+.header__middle{
+    text-align: center;
+    vertical-align: center; 
+    margin-top: 230px;
+    font-size: larger;
+}
+.header__contacts{
+    float: inline-end;
+    text-align: center;
+    padding-top: 15px;
+    font-size: larger;
+}
+.img{
+    margin: 30px;
+    border: solid blue 0.1mm;
+    padding: 3px;
+    border-radius: 40px ;
+}
+
+body {
+    background-image: url("skaly_sneg_ozero_913071_1920x1080.jpg") ;
+    background-size: 1920px 1080px ;
+
+}
