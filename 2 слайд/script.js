@@ -1,5 +1,5 @@
 const inputEl = document.getElementById('example')
-const btmEl = document.querySelector('.todo-list__but')
+const btmEl = document.querySelector('.todo-list__btn')
 const fielEl = document.querySelector('.todo-list__field')
 
 function onButClick() {
@@ -29,4 +29,4 @@ btmEl.addEventListener('click', onButClick)
 
 inputEl.addEventListener('input', () => {
     console.log(inputEl.value);
-})
+}) 
